@@ -72,12 +72,6 @@ const wordList = [
   "FLAME", "FRAME", "FROZE", "FROTH", "FRONT", "FROWN",
   "BRIDE", "PRIDE", "PRIZE", "CRIME", "CRUMB", "CRUMP",
   "GHOST", "GROSS", "GRASS", "GLASS", "CLASS", "CLASP",
-  "SWING", "SWISH", "SWITCH", "STITCH", "STICKY", "STOCKY",
-  "CATCH", "HATCH", "MATCH", "PATCH", "WATCH", "WASTE",
-  "HAPPY", "HONEY", "MONEY", "MOODY", "MUDDY", "MUDDL",
-  "CRAZY", "GRAZY", "GRAPE", "CRAPE", "CRAMP", "CRANK",
-  "DRIVE", "DRINK", "DREAM", "DREAD", "DRAPE", "DRAKE",
-  "BRUSH", "CRUSH", "CRUMB", "CRUMP", "GRUMP", "GRAPE"
 ];
 
 export default function App() {
